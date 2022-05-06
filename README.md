@@ -2,7 +2,14 @@
 #### I am a software development
 I'm just learning
 
-Habilidades: JAVA / JS / HTML / CSS
+Habilidades:
+- HTML
+- CSS
+- JAVASCRIPT / NODE.JS / EXPRESS / ANGULAR 
+- JAVA / SPRING
+- PYTHON
+- C++
+- FORTRAN
 
 <!---
 SaulMMBP/SaulMMBP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
