@@ -1,5 +1,5 @@
 ### Hola 👋, my name is Saul
-#### I am software development student
+#### I am a software development
 I'm just learning
 
 Habilidades: JAVA / JS / HTML / CSS
