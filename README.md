@@ -1,7 +1,7 @@
 ### Hola 👋, my name is Saul
 #### I like code and chickens
 
-Habilidades:
+SKILLS:
 - HTML
 - CSS
 - JAVASCRIPT / NODE.JS / EXPRESS / ANGULAR 
