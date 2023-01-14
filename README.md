@@ -1,14 +1,13 @@
 ### Hola 👋, my name is Saul
-#### I am a software development
-I'm just learning
+#### I like code and chickens
 
 Habilidades:
 - HTML
 - CSS
 - JAVASCRIPT / NODE.JS / EXPRESS / ANGULAR 
-- JAVA / SPRING
+- JAVA / SPRING / SPRING BOOT
 - PYTHON
-- C++
+- C/C++
 - FORTRAN
 
 <!---
