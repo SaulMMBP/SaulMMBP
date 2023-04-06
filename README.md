@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Saul</h1>
 
-![Alt text](Ilustraci%C3%B3n10.png)
+![Alt text](banner.png)
 
 ![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&pause=500&color=FCCE00&center=true&vCenter=true&width=1000&lines=I+love+code,+...;chickens+...;and+you.)](https://git.io/typing-svg)  
