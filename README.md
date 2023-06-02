@@ -20,7 +20,7 @@
 I'm an autodidact programmer/developer. I studied physics a couple of years, but i decided to dedicate myself to coding. 
 - I'm currently learning Java(Backend) and python, but sometimes i practice other languages.
 - I’m currently open for jobs opportunities
-- Ask me about everything (if i don't know it, I figure it out) :P 
+- Ask me about everything (if i don't know it, I'll figure it out) :P 
 - I'm also a musician, trying to be a composer.
 
 ### My github stats  
